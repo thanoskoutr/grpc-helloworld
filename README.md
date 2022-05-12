@@ -38,7 +38,7 @@ Run the server:
 3.  Run the client (on a different terminal):
 
 ```bash
-./client
+./client --name=Alice
 ```
 
 ## Links
